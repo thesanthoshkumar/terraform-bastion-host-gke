@@ -49,7 +49,7 @@ bastion_machine_type = "e2-medium"
 instance_name        = "project_name-bastion-vm"
 
 members = [
-  "user:Santhosh.kumar@searce.com",
+  "user:Santhosh.kumar@gmail.com",
 ]
 
 allow_stopping_for_update = true
